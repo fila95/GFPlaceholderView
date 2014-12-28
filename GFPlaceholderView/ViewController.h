@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
+#import "GFPlaceholderView.h"
+
 @interface ViewController : UIViewController
 
 
