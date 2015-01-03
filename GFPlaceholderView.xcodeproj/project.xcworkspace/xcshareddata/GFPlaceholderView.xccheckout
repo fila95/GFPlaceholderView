@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4EBB0044-6848-4081-9597-3F081EC0FDEB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GFPlaceholderView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8800678122453365CBD415CB88FB0FC062C22F6B</key>
+		<string>https://github.com/fila95/GFPlaceholderView.git</string>
+		<key>BA3A06421123AD5B5D58C6BDE9918AACE6507BD0</key>
+		<string>https://github.com/fila95/GFPlaceholderView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GFPlaceholderView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8800678122453365CBD415CB88FB0FC062C22F6B</key>
+		<string>../..GFPlaceholderView/</string>
+		<key>BA3A06421123AD5B5D58C6BDE9918AACE6507BD0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fila95/GFPlaceholderView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BA3A06421123AD5B5D58C6BDE9918AACE6507BD0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BA3A06421123AD5B5D58C6BDE9918AACE6507BD0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GFPlaceholderView</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8800678122453365CBD415CB88FB0FC062C22F6B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GFPlaceholderView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
